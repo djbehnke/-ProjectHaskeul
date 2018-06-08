@@ -1,6 +1,6 @@
 {- |
   Daniel Jacob Behnke
-  06/06/18
+  06/08/18
   Find the largest palindrome made from the product of two 3-digit numbers.
 -}
 
